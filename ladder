@@ -25,3 +25,4 @@ foreach ($nodes as $node){
 	echo '</br>';
 
 }
+?>
